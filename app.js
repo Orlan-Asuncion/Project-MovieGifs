@@ -1,4 +1,4 @@
-ocument.getElementById('logout-button').addEventListener('click', (event) => {
+document.getElementById('logout-button').addEventListener('click', (event) => {
   event.preventDefault()
 
   const signoutWindow = window.open(
